@@ -1,7 +1,7 @@
 # About The Project 
 
 <p><strong> 
-	This is a C++ glut project where we design a simple city view using C++ glut. 
+	This is a C++ glut project where we design a simple animated city view using C++ glut. 
 </strong></p>
 
 
